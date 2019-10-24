@@ -9,6 +9,6 @@ gui music is A music app by developers for developers
 
 Feel free to add sugestions
 
-![open in gitpod](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXk8zCCWWJdoPyEMv72sFcrSRBMyU5yEStvsno9GuTRgEB6VymlQ&s)
+open in gitpod: https://gitpod.io#https://github.com/prestonf136/gui-music/
 
 ----------------------------------------------------------------------------------------------------------------------------------

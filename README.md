@@ -1,11 +1,11 @@
 # gui-music
 gui music is A music app by developers for developers
 
--[ ] Podcast
--[ ] upload music files
--[ ] base music
--[ ] API
--[ ] WebApp
+- [ ] Podcast
+- [ ] upload music files
+- [ ] base music
+- [ ] API
+- [ ] WebApp
 
 Feel free to add sugestions
 

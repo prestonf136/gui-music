@@ -1,4 +1,4 @@
-h1 gui music
+# gui music
 
-h3 the music app for the dev by the dev
-h4 feel free to help out
+## the music app for the dev by the dev
+### feel free to help out

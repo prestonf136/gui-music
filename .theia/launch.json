@@ -6,13 +6,6 @@
          "request": "launch",
          "mainClass": "Main",
          "projectName": "gui-music_d650918a"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - main",
-         "request": "launch",
-         "mainClass": "main",
-         "projectName": "gui-music_d650918a"
       }
    ]
 }

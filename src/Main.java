@@ -24,15 +24,15 @@ public class Main {
 
     JFrame f = new JFrame();
 
-    JButton button =new JButton("Submit");
-	button.setBounds(100,100,140, 40);
+    //JButton button =new JButton("Submit");
+	//button.setBounds(100,100,140, 40);
 
     JLabel label = new JLabel();
 	label.setText("welcome to gui-music a music app for the dev by the dev");
-	label.setBounds(10,10,10,10);
+	label.setBounds(100,100,140,20);
     label.setHorizontalTextPosition(JLabel.CENTER);
 
-    f.add(button);
+    //f.add(button);
     f.add(label);
 
     f.setSize(screen[0],screen[1]);
